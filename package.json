@@ -1,0 +1,26 @@
+{
+  "name": "ergonomica_website",
+  "version": "1.0.0",
+  "description": "bootstrap4 website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkpty/ergonomica_website.git"
+  },
+  "keywords": [
+    "bs4",
+    "bootstrap4"
+  ],
+  "author": "torus digital",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkpty/ergonomica_website/issues"
+  },
+  "homepage": "https://github.com/gkpty/ergonomica_website#readme",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
